@@ -2,7 +2,7 @@
 
 ## Overview
 
-This system uses a **Force Sensitive Resistor (FSR402)** to detect applied pressure and trigger audio playback through an **MP3-TF-16P / DFPlayer Mini** module controlled by an **Arduino**.
+This system uses a **Force Sensitive Resistor (FSR402)** to detect applied pressure and trigger audio playback through an **MP3-TF-16P / DFPlayer Mini** module controlled by an **Arduino** UNO/NANO.
 
 When pressure exceeds a threshold, the Arduino sends a serial command to the MP3 module to play a preloaded sound file.  
 It’s a simple, reliable way to make **pressure-sensitive interactive devices** or **sound-triggered systems**.
