@@ -54,7 +54,7 @@ It’s a simple, reliable way to make **pressure-sensitive interactive devices**
 
 ## SD Card Setup
 
-Your microSD card should be formatted as **FAT32** and contain an mp3 folder of yoour sounds. 
+Your microSD card should be formatted as **FAT32** and contain an mp3 folder of your sounds. 
 <32gb is preferred. 
 
 ## Library used
@@ -62,3 +62,9 @@ Your microSD card should be formatted as **FAT32** and contain an mp3 folder of 
 Make sure to install the DFRobotDFPlayerMini library and to include the mp3tf16p.h in the folder. 
 mp3tf16p.h provided by https://dev.azure.com/overlording/The%20Last%20Outpost%20Workshop/_git/MP3-TF-16P
  -> Make sure to watch his content if you have some common errors.  
+
+ ## Micro-Python 
+
+ This version is unstable and need verification, feel free to test it. 
+
+ 
